@@ -77,7 +77,7 @@ Aqui está um exemplo de como deve ficar o seu package.json:
 }
 ```
 
-# Rodando Projeto em modo de Desenvolvimento:
+#### Rodando Projeto em modo de Desenvolvimento:
 
 ```bash
 npm run dev
