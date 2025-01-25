@@ -71,6 +71,7 @@ Aqui está um exemplo de como deve ficar o seu package.json:
   "license": "ISC",
   "description": "",
   "devDependencies": {
+    "@types/node": "^22.10.10",
     "tsup": "^8.3.5",
     "tsx": "^4.19.2",
     "typescript": "^5.7.3"
