@@ -18,11 +18,12 @@ npm init -y
 - tsx: Permite executar o projeto no Node.js com suporte a TypeScript.
 - typescript: Transpilador para TypeScript.
 - -D: Flag para instalar as dependências no modo de desenvolvimento.
+- @types/node: Definições de tipos para as APIs do Node.js, garantindo suporte completo no TypeScript.
 
 #### Execute o comando abaixo para instalar as dependências:
 
 ```bash
-npm install -D typescript tsx tsup
+npm install -D typescript @types/node tsx tsup
 ```
 
 ### Configurando tsconfig.json:
